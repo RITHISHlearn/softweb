@@ -352,71 +352,7 @@ index.html
         </div>
     </div>
 </section>
-
-	<div class="container">
-		<div class="row">
-			<div class="col-12 col-lg-5">
-				<div class="card-wrapper">
-					<h3 class="mbr-section-cardtitle mbr-fonts-style mb-2 display-5">
-						<strong>Unleash your genius</strong>
-					</h3>
-
-					<p class="mbr-cardtext mbr-fonts-style mb-0 display-7">
-					Creating websites is like composing a symphony of pixels, colors, and code—a harmonious fusion of creativity and technical expertise that transforms ideas into visually stunning and user-friendly digital masterpieces.
-					</p>
-				</div>
-			</div>
-			<div class="col-12 col-lg-6">
-				<h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
-					<strong>Create your first website</strong>
-				</h1>
-				
-				<p class="mbr-text mbr-fonts-style mb-4 display-7">
-					Mobirise Free Website Maker is perfect for non-techies and great for pro-coders for fast prototyping
-					and small customers' projects.
-				</p>
-				<div class="mbr-section-btn mt-4">
-					<a class="btn btn-primary display-7" href="https://mobiri.se">Create Website</a>
-					<a class="btn btn-success-outline display-7" href="https://mobiri.se">Read More</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section data-bs-version="5.1" class="header6 cid-ub2ZPQk6gv" id="header06-1">
-	
-
-	<div class="container">
-		<div class="row">
-			<div class="col-12 col-lg-5">
-				<div class="card-wrapper">
-					<h3 class="mbr-section-cardtitle mbr-fonts-style mb-2 display-5">
-						<strong>Unleash your genius</strong>
-					</h3>
-
-					<p class="mbr-cardtext mbr-fonts-style mb-0 display-7">
-					Creating websites is like composing a symphony of pixels, colors, and code—a harmonious fusion of creativity and technical expertise that transforms ideas into visually stunning and user-friendly digital masterpieces.
-					</p>
-				</div>
-			</div>
-			<div class="col-12 col-lg-6">
-				<h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
-					<strong>Create your first website</strong>
-				</h1>
-				
-				<p class="mbr-text mbr-fonts-style mb-4 display-7">
-					Mobirise Free Website Maker is perfect for non-techies and great for pro-coders for fast prototyping
-					and small customers' projects.
-				</p>
-				<div class="mbr-section-btn mt-4">
-					<a class="btn btn-primary display-7" href="https://mobiri.se">Create Website</a>
-					<a class="btn btn-success-outline display-7" href="https://mobiri.se">Read More</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+ 
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
