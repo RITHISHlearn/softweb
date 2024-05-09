@@ -28,7 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
- 
+  
 index.html
 
 <!DOCTYPE html>
@@ -418,7 +418,6 @@ index.html
 	</div>
 </section>
 
-
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
@@ -431,14 +430,12 @@ index.html
   <script src="assets/formoid/formoid.min.js"></script>
   
 
-  
 </body>
 </html>
 
 ## OUTPUT:
 
 ![Screenshot 2024-04-27 075319](https://github.com/RITHISHlearn/softweb/assets/145446645/2809862e-d418-4018-8375-6ce914fb2ebe)
-
-![Screenshot 2024-04-27 075336](https://github.com/RITHISHlearn/softweb/assets/145446645/4882ef40-2a44-440d-b183-d0ce476c9d68)
+ 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
